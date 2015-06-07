@@ -1,0 +1,9 @@
+D:\GitRepos\PacificHunters\PacificHunters\bin\Debug\PacificHunters.exe.config
+D:\GitRepos\PacificHunters\PacificHunters\bin\Debug\PacificHunters.exe
+D:\GitRepos\PacificHunters\PacificHunters\bin\Debug\PacificHunters.pdb
+D:\GitRepos\PacificHunters\PacificHunters\obj\Debug\PacificHunters.csprojResolveAssemblyReference.cache
+D:\GitRepos\PacificHunters\PacificHunters\obj\Debug\PacificHunters.Form1.resources
+D:\GitRepos\PacificHunters\PacificHunters\obj\Debug\PacificHunters.Properties.Resources.resources
+D:\GitRepos\PacificHunters\PacificHunters\obj\Debug\PacificHunters.csproj.GenerateResource.Cache
+D:\GitRepos\PacificHunters\PacificHunters\obj\Debug\PacificHunters.exe
+D:\GitRepos\PacificHunters\PacificHunters\obj\Debug\PacificHunters.pdb
