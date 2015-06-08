@@ -54,7 +54,7 @@
             this.mainMapControl.ScaleMode = GMap.NET.WindowsForms.ScaleModes.Integer;
             this.mainMapControl.SelectedAreaFillColor = System.Drawing.Color.FromArgb(((int)(((byte)(33)))), ((int)(((byte)(65)))), ((int)(((byte)(105)))), ((int)(((byte)(225)))));
             this.mainMapControl.ShowTileGridLines = false;
-            this.mainMapControl.Size = new System.Drawing.Size(284, 261);
+            this.mainMapControl.Size = new System.Drawing.Size(1594, 810);
             this.mainMapControl.TabIndex = 0;
             this.mainMapControl.Zoom = 0D;
             // 
@@ -62,7 +62,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(284, 261);
+            this.ClientSize = new System.Drawing.Size(1594, 810);
             this.Controls.Add(this.mainMapControl);
             this.Name = "Main";
             this.Text = "Pacific Hunters";
