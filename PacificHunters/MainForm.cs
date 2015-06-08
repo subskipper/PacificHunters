@@ -10,7 +10,7 @@ namespace PacificHunters
         {
             InitializeComponent();
 
-            mainMapControl.MapProvider = GMapProviders.OpenStreetMap;//.OpenStreetMap;
+            mainMapControl.MapProvider = GMapProviders.ArcGIS_World_Topo_Map;
             mainMapControl.Position = new PointLatLng(59.273960, 15.215193);
             mainMapControl.MinZoom = 0;
             mainMapControl.MaxZoom = 24;
