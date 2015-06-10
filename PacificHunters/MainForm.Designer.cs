@@ -64,6 +64,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1594, 810);
             this.Controls.Add(this.mainMapControl);
+            this.KeyPreview = true;
             this.Name = "Main";
             this.Text = "Pacific Hunters";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
